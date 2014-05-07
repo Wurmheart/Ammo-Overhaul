@@ -5,6 +5,7 @@ A mod for starbound, free of use for anyone that likes it.
 
 
 Content:
+
 This mod is an attempt to replace the current existing ammo with ammo that hits enemies reliably, is more diverse, is unique to the gun firing it and is more balanced all around.
 It also changes the damage and energy costs around.
 
@@ -15,9 +16,11 @@ There are 3 legendary guns added to the drop tables that can currently only be g
 
 
 Credit:
+
 Anyone is free to use and edit the mod, as long as it remains non-commercial.
 I would also like to thank everyone that supported me, making the mod was quite fun with you lot.
 
 Afterword:
+
 Due to my issues with chucklefish treated me i've decided to move the mod over to other sites.
 I plan to include a optional readme here that explains it later on, for those that are interested.
